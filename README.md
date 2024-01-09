@@ -1,1 +1,0 @@
-# transgo-admin.github.io
